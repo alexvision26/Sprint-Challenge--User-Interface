@@ -42,7 +42,7 @@ The two big differences between display:block & inline is that setting an elemen
 
 3. What are the 4 areas of the box model?
 
-The 4 areas of the box model are [content]padding]border]margin].
+The 4 areas of the box model are content]padding]border]margin].
 
 4. While using flexbox, what axis does the following property work on: ```align-items: center```?
 
