@@ -34,7 +34,7 @@ Edit this document to include your answers after each question. Make sure to lea
 
 1. If you were to describe semantic HTML to the next cohort of students, what would you say?
 
-Semantic HTML is HTML Markup that gives meaning to your webpage. Semantic tags identify what content is being created, just by looking at the tags such as <h1> you would know it is a title, and <p> you would know that is a paragraph.
+Semantic HTML is HTML Markup that gives meaning to your webpage. Semantic tags identify what content is being created, just by looking at the tags such as 'h1' you would know it is a title, and 'p' you would know that is a paragraph.
 
 2. Name two big differences between ```display: block;``` and ```display: inline;```.
 
