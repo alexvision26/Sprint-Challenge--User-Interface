@@ -266,13 +266,13 @@ section {
 
 .contact-info {
     text-align: center;
-    font-size: 2ch;
-    margin-bottom: 12%;
+    font-size: 24px;
+    margin-bottom: 16%;
     
 }
 
 .contact-info h2 {
-    font-size: 3ch;
+    font-size: 30px;
     animation: line .5s ease forwards;
 }
 
